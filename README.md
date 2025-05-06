@@ -1,6 +1,6 @@
 ### Hello, I'm Shriya 👋
 
-I'm a Part III Computer Systems Engineering student at the University of Auckland. I love exploring everything from firmware to web development 🤖. Outside of coding, I'm passionate about learning languages, both programming and spoken!
+I'm a Part IV Computer Systems Engineering student at the University of Auckland. I love exploring everything from firmware to web development 🤖. Outside of coding, I'm passionate about learning languages, both programming and spoken!
 
 #### Languages:
 
